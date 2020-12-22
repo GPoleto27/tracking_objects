@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from cv2 import cv2
 
 # Altere essa variável para utilizar outros videos ou câmeras
